@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Abyssum mark">
+  <rect width="64" height="64" rx="16" fill="#06050C"/>
+  <path d="M32 12c-10 0-18 8-18 18 0 8 5 14 12 17l-5 8h22l-5-8c7-3 12-9 12-17 0-10-8-18-18-18z" fill="#2F8F64"/>
+  <path d="M24 42h20" stroke="#F3EFE6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 49h20" stroke="#E0B15C" stroke-width="2" stroke-linecap="round"/>
+</svg>
