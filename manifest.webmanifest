@@ -1,0 +1,16 @@
+{
+  "name": "Abyssum",
+  "short_name": "Abyssum",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06050C",
+  "theme_color": "#06050C",
+  "description": "Abyssum offers reflective written readings for grief, loneliness, heartbreak, and difficult questions.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
