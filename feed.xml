@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Abyssum</title>
+    <link>https://abyssum.online/</link>
+    <description>Reflective readings and essays for grief, loneliness, and life turning.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Aug 2026 19:30:00 +0200</lastBuildDate>
+    <item>
+      <title>Reflective essays on solitude, grief, and courage</title>
+      <link>https://abyssum.online/articles.html</link>
+      <description>A growing library of reflective essays on solitude, grief, anger, and the long work of staying honest with yourself.</description>
+      <pubDate>Fri, 08 Aug 2026 19:30:00 +0200</pubDate>
+      <guid>https://abyssum.online/articles.html</guid>
+    </item>
+    <item>
+      <title>Nature Is Medicine — Abyssum</title>
+      <link>https://abyssum.online/nature-is-medicine.html</link>
+      <description>Documented herbal and nature-based wisdom for mood, pain, sleep, and safe kitchen knowledge.</description>
+      <pubDate>Fri, 08 Aug 2026 19:30:00 +0200</pubDate>
+      <guid>https://abyssum.online/nature-is-medicine.html</guid>
+    </item>
+  </channel>
+</rss>
